@@ -126,6 +126,7 @@ public class ListaDoble {
 	    }
 	        
 	        public void buscar(){
+			// buscar por elemneto; por dato; eliminar por posicion
 	        	
 	        }
 	  
